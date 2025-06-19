@@ -9,4 +9,5 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/miguel10746/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/miguel10746/azure-network-protocols)
+  - [Wireshark](https://github.com/miguel10746/Wireshark_Labs.git)
 
